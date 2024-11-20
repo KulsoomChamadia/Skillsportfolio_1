@@ -14,11 +14,11 @@ def check_even_odd(num):
     return f"{num} is odd."  
   
 def main():  
-  # Get the number from the user  
-  num = int(input("Enter a number: "))  
-  # Check if the number is even or odd  
+  # Ask the user for a number  
+  num = int(input("type a number: "))  
+  # Identify whether the number is even or odd  
   result = check_even_odd(num)  
-  # Print the result  
+  # Display the output 
   print(result)  
   
 if __name__ == "__main__":  
