@@ -2,7 +2,7 @@ def main():
  # Initialize a dictionary with countries and capitals   
     cap_name = {
         "France": "Paris",
-        "Pakistan": "Islamabad",
+        "Pakistan": "Islamabad", 
         "Japan": "Tokyo",
         "Germany": "Berlin",
         "Australia": "Canberra",
