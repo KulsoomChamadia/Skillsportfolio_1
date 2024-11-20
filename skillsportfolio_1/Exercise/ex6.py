@@ -1,6 +1,6 @@
 def main():
     # Initialize the valid password
-    valid_entry = "1214"
+    valid_entry = "1234"
     # Define the maximum tries
     attempts = 0 
     # Configure the maximum tries allowed
