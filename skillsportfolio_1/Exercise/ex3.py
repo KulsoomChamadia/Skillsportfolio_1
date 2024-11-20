@@ -1,7 +1,7 @@
 def main():
     # Define an empty dictionary for storing personal data
     Personal_Data = {}
-    # Inquire about the user's name and hometown
+    # Inquire about the user's name and hometown 
     Personal_Data['Name'] = input(" Enter Your Name (First and Last):")
     Personal_Data['Hometown'] = input(" Enter Your Hometown:")
     # Authenticate the user's age input
