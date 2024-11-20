@@ -25,4 +25,4 @@ def main():
         # When the attempt limit is hit, update the user that the authorities are aware
     if attempts == attempt_limit:
         print("Oops! Out of tries. The digital detectives are coming.")
-main()
+main() 
