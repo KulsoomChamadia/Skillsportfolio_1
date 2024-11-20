@@ -7,7 +7,7 @@ day_month = {
     "May": 31,   
     "June": 30,    
     "July": 31,   
-    "August": 31,    
+    "August": 31,     
     "September": 30,    
     "October": 31,   
     "November": 30,   
