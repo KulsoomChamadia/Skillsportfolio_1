@@ -1,4 +1,4 @@
-def check_even_odd(num):  
+def comfirm_odd_even(num):  
   """  
   Determines if a number is even or odd.  
   
@@ -17,7 +17,7 @@ def main():
   # Ask the user for a number  
   num = int(input("type a number: "))  
   # Identify whether the number is even or odd  
-  result = check_even_odd(num)  
+  result = comfirm_odd_even(num)  
   # Display the output 
   print(result)  
   
